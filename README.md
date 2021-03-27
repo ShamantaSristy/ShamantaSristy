@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShamantaSristy](https://github.com/ShamantaSristy)
 
-- 💬 Ask me about **React,HTML,CSS**
+- 💬 Ask me about **React,Javascript,HTML,CSS**
 
 - 📫 How to reach me **shamantasristy@gmail.com**
 
