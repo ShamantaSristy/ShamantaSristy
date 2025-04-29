@@ -30,5 +30,5 @@ I'm a curious learner, passionate creator, and a beginner Machine Learning explo
 
 ---
 
-> 🌻 "Learning is my superpower – one project at a time!"
+> 🌻 "Learning is my superpower"
 
